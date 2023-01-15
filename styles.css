@@ -1,0 +1,16 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+.btn {
+    margin-top: 20px;
+}
+
+.note {
+    font-style: italic;
+}

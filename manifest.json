@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-permabrain",
+	"name": "permabrain",
+	"version": "0.0.1",
+	"minAppVersion": "0.0.1",
+	"description": "Upload your second brain (vault) to the Permaweb (Arweave) so it lives on forever.",
+	"author": "Lajos Deme",
+	"authorUrl": "https://github.com/lajosdeme",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
